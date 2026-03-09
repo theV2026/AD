@@ -1,22 +1,22 @@
 {
   "active": true,
-  "kus": "",
+  "kus": "2d4d38f0-52d0-4a41-8d9c-7ef59d2f6a1b",
   "ads": [
     {
       "weight": 1,
       "urls": {
-        "en": "",
-        "de": "",
-        "fr": "",
-        "ja": "",
-        "zh": ""
+        "en": "https://t.me/HarlockSpace",
+        "de": "https://t.me/HarlockSpace",
+        "fr": "https://t.me/HarlockSpace",
+        "ja": "https://t.me/HarlockSpace",
+        "zh": "https://t.me/HarlockSpace"
       },
       "click_urls": {
-        "en": "",
-        "de": "",
-        "fr": "",
-        "ja": "",
-        "zh": ""
+        "en": "https://t.me/HarlockSpace",
+        "de": "https://t.me/HarlockSpace",
+        "fr": "https://t.me/HarlockSpace",
+        "ja": "https://t.me/HarlockSpace",
+        "zh": "https://t.me/HarlockSpace"
       }
     }
   ]
