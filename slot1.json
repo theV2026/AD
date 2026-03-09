@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "kus": "2d4d38f0-52d0-4a41-8d9c-7ef59d2f6a1b",
+  "ads": [
+    {
+      "weight": 1,
+      "urls": {
+        "en": "https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg",
+        "de": "https://c4.wallpaperflare.com/wallpaper/905/101/199/earth-1920-1080-wallpaper-wallpaper-preview.jpg",
+        "fr": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThm7ovvkOBTqNn1Cmr7h8P3DSPiSu5u3FmfQ&s",
+        "ja": "https://cdn.pixabay.com/photo/2019/11/09/14/13/photography-4613632_640.jpg",
+        "zh": "https://images.nzgeo.com/1970/01/97_1080_header-2000x1329.jpg"
+      },
+      "click_urls": {
+        "en": "https://jut.su/yuusha-kei-ni-shosu/episode-1.html",
+        "de": "https://jut.su/yuusha-kei-ni-shosu/episode-2.html",
+        "fr": "https://jut.su/yuusha-kei-ni-shosu/episode-3.html",
+        "ja": "https://jut.su/yuusha-kei-ni-shosu/episode-4.html",
+        "zh": "https://jut.su/yuusha-kei-ni-shosu/episode-5.html"
+      }
+    }
+  ]
+}
